@@ -1,1 +1,2 @@
 # Mailroom-Manager
+The "Irving Mailroom Manager" is a Java project that utilizes a stack data structure to manage packages. With a user-friendly menu, it allows users to deliver, retrieve, move, and organize packages within different stacks. Additionally, features such as printing stack information, finding misplaced packages, listing awaiting packages, emptying the floor, and advancing to the next day are provided.
